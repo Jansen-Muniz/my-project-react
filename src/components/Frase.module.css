@@ -1,0 +1,9 @@
+.fraseContainer {
+  background-color: forestgreen;
+  border: 3px dotted yellow;
+}
+
+.fraseContent {
+  color: yellowgreen;
+  font-size: 2rem;
+}
